@@ -1,1 +1,1 @@
-# eclipse_study
+# java_study
